@@ -1,0 +1,7 @@
+Suppose we are comparing implementations of insertion sort and merge sort on the
+same machine. For inputs of size n, insertion sort runs in 8n² steps, while
+merge sort runs in 64n⋅lg n steps. For which values of n does insertion sort
+beat merge sort?
+8n² = 64n⋅lg n
+n = 8*lg n
+n > 43.559, solution found using graphing calculator.  Otherwise my search for other solutions implemented Lambert W function.

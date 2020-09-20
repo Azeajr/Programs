@@ -1,0 +1,5 @@
+Give a real-world example that requires sorting or a real-world example that requires computing a convex hull. 
+
+If I had list of task and times that went with those task it might be useful to sort the tasks by how long each will take.  Then either complete tasks in order or reverse order.
+
+If I wanted to make picture frames for picture with more than four vertices. If I wanted to calculate the convex hull for a payload to be launched on a rocket.

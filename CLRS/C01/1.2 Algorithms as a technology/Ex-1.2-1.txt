@@ -1,0 +1,4 @@
+Give an example of an application that requires algorithmic content at the
+application level, and discuss the function of the algorithms involved.
+Spreadsheet applications implement search and sort algorithms to search and sort
+data.

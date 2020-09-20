@@ -1,0 +1,3 @@
+Come up with a real-world problem in which only the best solution will do. Then come up with one in which a solution that is “approximately” the best is good enough.
+Identifying if someone will have a specific gene in their DNA
+Calculate the trajectory and speed necessary to collide with another object in 3D space.

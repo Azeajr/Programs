@@ -1,0 +1,3 @@
+Select a data structure that you have seen previously, and discuss its strengths and limitations.
+
+Binary Search Trees have operations that all run dependent on height of tree.  This makes for fast searches, insertions and deletions.  The tree may become unbalanced and lead to less efficient operations due to its larger than necessary height.
